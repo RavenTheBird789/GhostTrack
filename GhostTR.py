@@ -291,12 +291,12 @@ def run_banner():
     time.sleep(1)
     stderr.writelines(f"""{Wh}
          .-.
-       .'   `.          {Wh}--------------------------------
+       .'   `.          {Wh}----------------------------------------
        :g g   :         {Wh}| {Gr}GHOST - TRACKER - IP ADDRESS {Wh}|
        : o    `.        {Wh}|       {Gr}@CODE BY HUNXBYTS      {Wh}|
       :         ``.     {Wh}|    {Gr}UI Input Error Fixed By   {Wh}|             
      :             `.   {Wh}|        {Re}RavenTheBird789       {Wh}|
-    :  :         .   `. {Wh}--------------------------------
+    :  :         .   `. {Wh}----------------------------------------
     :   :          ` . `.
      `.. :            `. ``;
         `:;             `:'
