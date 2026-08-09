@@ -48,6 +48,7 @@ Display on the menu ```Username Tracker```
 on this menu you can search for information from the target username on social media
 
 <details>
-<summary>:zap: Author :</summary>
+<summary>:zap: Authors :</summary>
 - <strong><a href="https://github.com/HunxByts">HunxByts</a></strong>
+- <strong><a href="https://github.com/RavenTheBird789">RavenTheBird789</a></strong>
 </details>
